@@ -1,0 +1,12 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+*.pyc
+
+# Editor y sistema
+.vscode/
+.DS_Store
+
+# Material de clase que no forma parte de la entrega
+soluciones/
+PROMPTS.md
